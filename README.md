@@ -1,6 +1,7 @@
 # Basic-Calculator
-
+<p align = "center">
 <img src = https://raw.githubusercontent.com/AlexSaGo/Basic-Calculator/master/Calculator.png>
+</p>
 
 ------------------------------------------------------------
 # Documentación
@@ -25,7 +26,7 @@ sacarle la raiz cuadrada a cualquier número.</p>
 </ol>
 
 ------------------------------------------------------------
-<p center>Espero que te guste mi programa, nos vemos en la proxima :D</p>
+<p align = "center">Espero que te guste mi programa, nos vemos en la proxima :D</p>
 <br>
 <br>
 <img src = https://thumbs.gfycat.com/AntiqueBlissfulAlbino-size_restricted.gif>
